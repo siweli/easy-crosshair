@@ -13,7 +13,7 @@ in fullscreen windowed as opposed to regular fullscreen (eg. Valorant). However,
 me the game name, version, and any other additonal information you might find useful and I will get back to you with
 a fix to the code in the next version or a solution to the problem.
 
-Contact me on Discord: siwelo
+Contact me on Discord: siweli
 
 Contact me via email:  siwelyt3@gmail.com
 
