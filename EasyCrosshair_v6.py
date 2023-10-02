@@ -14,7 +14,7 @@ if win32gui.GetWindowText(exe_window)[-3:] == "exe":
     win32gui.ShowWindow(exe_window, win32con.SW_HIDE)
 
 # change taskbar icon
-myappid = 'Easy.Crosshair.V.5'
+myappid = 'Easy.Crosshair.V.6'
 ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 
