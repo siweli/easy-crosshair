@@ -53,7 +53,10 @@ class App(tk.Frame):
         self.screen = TurtleScreen(self.canvas)
         self.screen.bgcolor("#1a1a1a")
         self.canvas.bind('<Button-1>',self.create)
+        self.canvas.bind('<B1-Motion>',self.create)
         self.canvas.bind('<Button-3>',self.delete)
+        self.canvas.bind('<B3-Motion>',self.delete)
+        
         
     # buttons
         # frame 1
