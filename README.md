@@ -1,5 +1,5 @@
 # EasyCrosshair
-Welcome to EasyCrosshair V5
+Welcome to EasyCrosshair V6
 
 EasyCrosshair aims to tackle limiting crosshair creators that some games provide by allowing the user to design
 a crosshair by 'drawing' their ideal crosshair pixel by pixel.
@@ -7,6 +7,9 @@ This program is designed to be entirely external and therefore undetectable by a
 
 The EXE file can be ran on it's own however the icon on taskbar and window will no longer be the red crosshair icon.
 It is recommended to leave all files as they are within the main folder and not to change the names of those files.
+
+Known issues:
+- Running the program twice will make a black square in the centre of the screen appear.
 
 This program has not been tested on all games so may not always work. In most cases a simple fix is to play the game
 in fullscreen windowed as opposed to regular fullscreen (eg. Valorant). However, if the problem persists please send
